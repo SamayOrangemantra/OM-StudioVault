@@ -15,3 +15,7 @@ export { ThemeToggle } from './ThemeToggle'
 export { PageHeader } from './PageHeader'
 export { EmptyState } from './EmptyState'
 export { Skeleton } from './Skeleton'
+
+export { CommandPalette } from './CommandPalette'
+export { FloatingActions } from './FloatingActions'
+export { UserMenu } from './UserMenu'

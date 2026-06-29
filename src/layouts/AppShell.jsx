@@ -1,29 +1,34 @@
-import { Suspense, useCallback } from 'react'
+import { Suspense, useCallback, useEffect, useState } from 'react'
 import { Outlet, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { Sidebar } from '@/components/layout/Sidebar'
 import { Topbar } from '@/components/layout/Topbar'
 import { Spinner } from '@/components/ui'
+import { CommandPalette } from '@/components/ui/CommandPalette'
+import { FloatingActions } from '@/components/ui/FloatingActions'
 import { useLocalStorage } from '@/hooks/useLocalStorage'
 import { routeTransition } from '@/lib/motion'
 
-/**
- * App frame shared by every route: collapsible Sidebar + Topbar + a scrollable
- * content region rendering the active page via <Outlet/>. Collapse state lives
- * here (and persists) so the layout grid resizes with it.
- *
- * Layout uses a flex row + fixed-width rail rather than a CSS grid template so
- * the sidebar can animate its width smoothly between collapsed/expanded. The
- * routed content cross-fades on navigation (keyed by pathname).
- */
 export function AppShell() {
   const [collapsed, setCollapsed] = useLocalStorage('aura.sidebar.collapsed', false)
+  const [paletteOpen, setPaletteOpen] = useState(false)
   const location = useLocation()
   const toggleSidebar = useCallback(() => setCollapsed((c) => !c), [setCollapsed])
 
+  // Global Cmd+K / Ctrl+K shortcut
+  useEffect(() => {
+    const handler = (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault()
+        setPaletteOpen((o) => !o)
+      }
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [])
+
   return (
     <div className="theme-transition flex h-screen w-full overflow-hidden bg-bg">
-      {/* Keyboard skip link — first focusable element. */}
       <a
         href="#main-content"
         className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-accent focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-accent-foreground"
@@ -39,7 +44,7 @@ export function AppShell() {
       </div>
 
       <div className="flex min-w-0 flex-1 flex-col">
-        <Topbar />
+        <Topbar onOpenPalette={() => setPaletteOpen(true)} />
         <main id="main-content" className="flex-1 overflow-y-auto">
           <div className="mx-auto w-full max-w-[1600px] px-5 py-7 sm:px-7 lg:px-9 xl:px-10">
             <Suspense
@@ -63,6 +68,10 @@ export function AppShell() {
           </div>
         </main>
       </div>
+
+      {/* Global floating elements */}
+      <CommandPalette open={paletteOpen} onClose={() => setPaletteOpen(false)} />
+      <FloatingActions />
     </div>
   )
 }

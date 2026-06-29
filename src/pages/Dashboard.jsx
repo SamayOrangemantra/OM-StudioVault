@@ -15,14 +15,10 @@ import {
 import { useAuth } from '@/hooks/useAuth'
 import { getContinueWorking, getRecentUploads } from '@/data/selectors'
 import { ROUTES } from '@/lib/constants'
-import { staggerContainer, fadeUp } from '@/lib/motion'
+import { staggerContainer, fadeUp, inView } from '@/lib/motion'
 
-/**
- * Dashboard — a premium, information-rich landing built as a bento grid with a
- * clear hierarchy: a hero featured collection up top, supporting KPIs and
- * storage beside it, then asset strips and an analytics/activity rail. Pure
- * composition; every panel sources its own data.
- */
+const VIEW_OPTS = { once: true, margin: '-60px' }
+
 export default function Dashboard() {
   const { user } = useAuth()
   const firstName = user?.name?.split(' ')[0] ?? 'there'
@@ -34,6 +30,7 @@ export default function Dashboard() {
       initial="hidden"
       animate="show"
     >
+      {/* Above-fold: animate on mount */}
       <motion.div variants={fadeUp}>
         <PageHeader
           eyebrow="Overview"
@@ -51,7 +48,6 @@ export default function Dashboard() {
         <QuickFilters />
       </motion.div>
 
-      {/* Hero row: featured collection (lead) + supporting KPIs/storage rail */}
       <motion.div variants={fadeUp} className="grid grid-cols-1 gap-6 lg:grid-cols-12">
         <div className="lg:col-span-8">
           <FeaturedCollection />
@@ -62,7 +58,13 @@ export default function Dashboard() {
         </div>
       </motion.div>
 
-      <motion.div variants={fadeUp}>
+      {/* Below-fold: whileInView scroll-triggered */}
+      <motion.div
+        variants={inView}
+        initial="hidden"
+        whileInView="show"
+        viewport={VIEW_OPTS}
+      >
         <AssetSection
           title="Jump back in"
           action={{ to: ROUTES.library, label: 'Browse all' }}
@@ -71,8 +73,13 @@ export default function Dashboard() {
         />
       </motion.div>
 
-      {/* Recently uploaded + analytics rail */}
-      <motion.div variants={fadeUp} className="grid grid-cols-1 gap-6 lg:grid-cols-12">
+      <motion.div
+        variants={inView}
+        initial="hidden"
+        whileInView="show"
+        viewport={VIEW_OPTS}
+        className="grid grid-cols-1 gap-6 lg:grid-cols-12"
+      >
         <div className="lg:col-span-8">
           <AssetSection
             title="Recently uploaded"
@@ -87,8 +94,13 @@ export default function Dashboard() {
         </div>
       </motion.div>
 
-      {/* Activity + team */}
-      <motion.div variants={fadeUp} className="grid grid-cols-1 gap-6 lg:grid-cols-12">
+      <motion.div
+        variants={inView}
+        initial="hidden"
+        whileInView="show"
+        viewport={VIEW_OPTS}
+        className="grid grid-cols-1 gap-6 lg:grid-cols-12"
+      >
         <div className="lg:col-span-8">
           <RecentActivity />
         </div>
