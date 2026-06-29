@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Semantic theme tokens. Components reference these only through Tailwind
+ * classes (bg-surface, text-muted, etc.) — never raw hex. Switching the
+ * theme is a single `.dark` class toggle on <html>.
+ *
+ * Values are space-separated RGB channels so Tailwind's <alpha-value>
+ * opacity modifiers keep working (e.g. bg-accent/20).
+ */
+@layer base {
+  :root {
+    /*
+     * Light — warm editorial canvas (Mastercard-inspired). Three stacked surface
+     * tones: canvas cream → lifted cream → nested cream, on warm taupe borders
+     * and warm ink text. Champagne gold is kept as Aura's brand "signal" accent
+     * (used sparingly: focus, active, eyebrow dots, selection) — primary CTAs are
+     * warm ink, not gold.
+     */
+    --bg: 243 240 238; /* #F3F0EE canvas cream */
+    --surface: 252 251 250; /* #FCFBFA lifted cream — cards/pills */
+    --surface-2: 238 234 229; /* #EEEAE5 nested / hover */
+    --border: 226 220 211; /* #E2DCD3 warm taupe */
+    --text: 20 20 19; /* #141413 warm ink */
+    --text-muted: 105 105 105; /* #696969 slate */
+    --accent: 176 141 87; /* #B08D57 champagne gold */
+    --accent-foreground: 252 251 250; /* cream text on gold */
+    --ring: 176 141 87;
+  }
+
+  .dark {
+    /* Dark — warm gallery ink (keeps the editorial warmth, not jet black). */
+    --bg: 20 20 19; /* #141413 warm ink canvas */
+    --surface: 28 27 26; /* #1C1B1A lifted */
+    --surface-2: 38 38 39; /* #262627 nested */
+    --border: 56 54 51; /* warm charcoal line */
+    --text: 240 238 233; /* warm off-white */
+    --text-muted: 156 152 146; /* warm slate */
+    --accent: 200 168 113; /* warmer gold pops on dark */
+    --accent-foreground: 24 22 18;
+    --ring: 200 168 113;
+  }
+
+  * {
+    border-color: rgb(var(--border));
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bg text-text font-sans;
+    margin: 0;
+    /* 450 is the signature body weight — softer than 500, firmer than 400. */
+    font-weight: 450;
+    letter-spacing: -0.006em;
+  }
+
+  /* Tighter tracking on display headings for an editorial, premium feel. */
+  .font-display {
+    letter-spacing: -0.02em;
+  }
+
+  /* Eyebrow category labels: small, bold, uppercase, gently tracked. */
+  .text-eyebrow {
+    font-size: 0.75rem;
+    line-height: 1;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  /* Branded text selection. */
+  ::selection {
+    background: rgb(var(--accent) / 0.22);
+    color: rgb(var(--text));
+  }
+
+  /*
+   * Keyboard-focus fallback for links, which generally don't set their own ring
+   * (buttons/inputs define focus-visible:ring-* themselves, so they're excluded
+   * here to avoid a doubled indicator).
+   */
+  a:focus-visible {
+    outline: 2px solid rgb(var(--ring));
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* Themed scrollbars for a polished, app-like feel */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(var(--border));
+    border-radius: 9999px;
+    border: 2px solid rgb(var(--bg));
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(var(--text-muted) / 0.5);
+  }
+}
+
+@layer utilities {
+  /* Smooth color transitions when the theme flips */
+  .theme-transition,
+  .theme-transition * {
+    transition:
+      background-color 0.25s ease,
+      border-color 0.25s ease,
+      color 0.25s ease;
+  }
+}
+
+/*
+ * Respect the user's reduced-motion preference for CSS-driven motion. Framer
+ * Motion is handled separately via <MotionConfig reducedMotion="user">.
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

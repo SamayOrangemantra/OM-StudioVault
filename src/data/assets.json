@@ -1,0 +1,3598 @@
+[
+  {
+    "id": "ast_54",
+    "name": "Contemporary Wedding — Entrance Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/254/800/600",
+    "fileSize": 7592892,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "The Mehta Family",
+    "venue": "ITC Grand Central",
+    "theme": "Contemporary",
+    "eventType": "Wedding",
+    "year": 2026,
+    "colors": [
+      "Lavender",
+      "Black",
+      "Emerald"
+    ],
+    "designElements": [
+      "Entrance Decor"
+    ],
+    "tags": [
+      "wedding",
+      "contemporary",
+      "lavender",
+      "black",
+      "emerald",
+      "entrance-decor"
+    ],
+    "description": "A contemporary wedding for The Mehta Family at ITC Grand Central. Featuring entrance decor in a palette of lavender, black, emerald.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-06-25T11:37:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_60",
+    "name": "Art Deco Reception — Entrance Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/260/800/600",
+    "fileSize": 4111523,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "Sterling Group",
+    "venue": "The Oberoi Gardens",
+    "theme": "Art Deco",
+    "eventType": "Reception",
+    "year": 2026,
+    "colors": [
+      "Champagne",
+      "Coral",
+      "White"
+    ],
+    "designElements": [
+      "Entrance Decor"
+    ],
+    "tags": [
+      "reception",
+      "art-deco",
+      "champagne",
+      "coral",
+      "white",
+      "entrance-decor"
+    ],
+    "description": "A art deco reception for Sterling Group at The Oberoi Gardens. Featuring entrance decor in a palette of champagne, coral, white.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-06-22T13:25:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_90",
+    "name": "Bohemian Conference — Mandap.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/290/800/600",
+    "fileSize": 1381830,
+    "dimensions": null,
+    "client": "Saffron Weddings",
+    "venue": "Jaipur City Palace",
+    "theme": "Bohemian",
+    "eventType": "Conference",
+    "year": 2026,
+    "colors": [
+      "Royal Blue",
+      "Emerald"
+    ],
+    "designElements": [
+      "Mandap",
+      "Lounge Setup"
+    ],
+    "tags": [
+      "conference",
+      "bohemian",
+      "royal-blue",
+      "emerald",
+      "mandap",
+      "lounge-setup"
+    ],
+    "description": "A bohemian conference for Saffron Weddings at Jaipur City Palace. Featuring mandap, lounge setup in a palette of royal blue, emerald.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-05-22T18:09:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_68",
+    "name": "Vintage Corporate — Chandelier.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/268/800/600",
+    "fileSize": 6492828,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Sterling Group",
+    "venue": "Marina Bay Hall",
+    "theme": "Vintage",
+    "eventType": "Corporate",
+    "year": 2026,
+    "colors": [
+      "Ivory",
+      "Emerald"
+    ],
+    "designElements": [
+      "Chandelier"
+    ],
+    "tags": [
+      "corporate",
+      "vintage",
+      "ivory",
+      "emerald",
+      "chandelier"
+    ],
+    "description": "A vintage corporate for Sterling Group at Marina Bay Hall. Featuring chandelier in a palette of ivory, emerald.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-04-17T13:50:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_63",
+    "name": "Luxury Product Launch — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/263/800/600",
+    "fileSize": 2968460,
+    "dimensions": {
+      "width": 4928,
+      "height": 3648
+    },
+    "client": "Nova Pharma",
+    "venue": "Goa Beach Resort",
+    "theme": "Luxury",
+    "eventType": "Product Launch",
+    "year": 2026,
+    "colors": [
+      "Champagne",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Table Setting"
+    ],
+    "tags": [
+      "product-launch",
+      "luxury",
+      "champagne",
+      "burgundy",
+      "table-setting"
+    ],
+    "description": "A luxury product launch for Nova Pharma at Goa Beach Resort. Featuring table setting in a palette of champagne, burgundy.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-04-04T16:11:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_11",
+    "name": "Vintage Gala — Chandelier.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/211/800/600",
+    "fileSize": 4179961,
+    "dimensions": {
+      "width": 5472,
+      "height": 3264
+    },
+    "client": "Saffron Weddings",
+    "venue": "Leela Convention Centre",
+    "theme": "Vintage",
+    "eventType": "Gala",
+    "year": 2026,
+    "colors": [
+      "Champagne",
+      "Lavender",
+      "Gold"
+    ],
+    "designElements": [
+      "Chandelier",
+      "Photo Booth"
+    ],
+    "tags": [
+      "gala",
+      "vintage",
+      "champagne",
+      "lavender",
+      "gold",
+      "chandelier",
+      "photo-booth"
+    ],
+    "description": "A vintage gala for Saffron Weddings at Leela Convention Centre. Featuring chandelier, photo booth in a palette of champagne, lavender, gold.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-03-23T16:09:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_43",
+    "name": "Contemporary Product Launch — Lounge Setup.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/243/800/600",
+    "fileSize": 2909519,
+    "dimensions": {
+      "width": 5472,
+      "height": 3264
+    },
+    "client": "Sterling Group",
+    "venue": "Mountain Vista Resort",
+    "theme": "Contemporary",
+    "eventType": "Product Launch",
+    "year": 2026,
+    "colors": [
+      "Coral",
+      "Emerald"
+    ],
+    "designElements": [
+      "Lounge Setup"
+    ],
+    "tags": [
+      "product-launch",
+      "contemporary",
+      "coral",
+      "emerald",
+      "lounge-setup"
+    ],
+    "description": "A contemporary product launch for Sterling Group at Mountain Vista Resort. Featuring lounge setup in a palette of coral, emerald.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-03-19T17:14:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_32",
+    "name": "Bohemian Gala — Centerpiece.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/232/800/600",
+    "fileSize": 3493363,
+    "dimensions": {
+      "width": 3840,
+      "height": 3264
+    },
+    "client": "The Mehta Family",
+    "venue": "Vineyard Estate",
+    "theme": "Bohemian",
+    "eventType": "Gala",
+    "year": 2026,
+    "colors": [
+      "Teal",
+      "Coral"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Lounge Setup"
+    ],
+    "tags": [
+      "gala",
+      "bohemian",
+      "teal",
+      "coral",
+      "centerpiece",
+      "lounge-setup"
+    ],
+    "description": "A bohemian gala for The Mehta Family at Vineyard Estate. Featuring centerpiece, lounge setup in a palette of teal, coral.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-03-14T15:14:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_18",
+    "name": "Luxury Product Launch — Entrance Decor.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/218/800/600",
+    "fileSize": 133247360,
+    "dimensions": {
+      "width": 3840,
+      "height": 2160
+    },
+    "client": "Lumen Technologies",
+    "venue": "Udaipur Lake Palace",
+    "theme": "Luxury",
+    "eventType": "Product Launch",
+    "year": 2026,
+    "colors": [
+      "Champagne",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Entrance Decor",
+      "Chandelier",
+      "Photo Booth"
+    ],
+    "tags": [
+      "product-launch",
+      "luxury",
+      "champagne",
+      "burgundy",
+      "entrance-decor",
+      "chandelier",
+      "photo-booth"
+    ],
+    "description": "A luxury product launch for Lumen Technologies at Udaipur Lake Palace. Featuring entrance decor, chandelier, photo booth in a palette of champagne, burgundy.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-03-06T17:14:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_61",
+    "name": "Fairytale Gala — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/261/800/600",
+    "fileSize": 2320902,
+    "dimensions": {
+      "width": 3840,
+      "height": 3264
+    },
+    "client": "Verma & Co.",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Fairytale",
+    "eventType": "Gala",
+    "year": 2026,
+    "colors": [
+      "Black",
+      "Royal Blue",
+      "Ivory"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Drapery",
+      "Centerpiece"
+    ],
+    "tags": [
+      "gala",
+      "fairytale",
+      "black",
+      "royal-blue",
+      "ivory",
+      "floral-arch",
+      "drapery",
+      "centerpiece"
+    ],
+    "description": "A fairytale gala for Verma & Co. at Taj Falaknuma Palace. Featuring floral arch, drapery, centerpiece in a palette of black, royal blue, ivory.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-02-20T11:25:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_41",
+    "name": "Fairytale Festival — Lounge Setup.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/241/800/600",
+    "fileSize": 9442027,
+    "dimensions": null,
+    "client": "Crestline Capital",
+    "venue": "Marina Bay Hall",
+    "theme": "Fairytale",
+    "eventType": "Festival",
+    "year": 2026,
+    "colors": [
+      "Ivory",
+      "Gold"
+    ],
+    "designElements": [
+      "Lounge Setup"
+    ],
+    "tags": [
+      "festival",
+      "fairytale",
+      "ivory",
+      "gold",
+      "lounge-setup"
+    ],
+    "description": "A fairytale festival for Crestline Capital at Marina Bay Hall. Featuring lounge setup in a palette of ivory, gold.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2026-02-02T16:57:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_75",
+    "name": "Rustic Reception — Chandelier.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/275/800/600",
+    "fileSize": 12235677,
+    "dimensions": null,
+    "client": "Aurora Hotels",
+    "venue": "ITC Grand Central",
+    "theme": "Rustic",
+    "eventType": "Reception",
+    "year": 2026,
+    "colors": [
+      "White",
+      "Lavender"
+    ],
+    "designElements": [
+      "Chandelier"
+    ],
+    "tags": [
+      "reception",
+      "rustic",
+      "white",
+      "lavender",
+      "chandelier"
+    ],
+    "description": "A rustic reception for Aurora Hotels at ITC Grand Central. Featuring chandelier in a palette of white, lavender.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-01-21T13:08:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_33",
+    "name": "Vintage Festival — Floral Arch.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/233/800/600",
+    "fileSize": 838760,
+    "dimensions": null,
+    "client": "Saffron Weddings",
+    "venue": "Jaipur City Palace",
+    "theme": "Vintage",
+    "eventType": "Festival",
+    "year": 2026,
+    "colors": [
+      "Champagne",
+      "Lavender"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "festival",
+      "vintage",
+      "champagne",
+      "lavender",
+      "floral-arch"
+    ],
+    "description": "A vintage festival for Saffron Weddings at Jaipur City Palace. Featuring floral arch in a palette of champagne, lavender.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-01-15T12:03:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_20",
+    "name": "Art Deco Birthday — Photo Booth.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/220/800/600",
+    "fileSize": 4999175,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Nova Pharma",
+    "venue": "ITC Grand Central",
+    "theme": "Art Deco",
+    "eventType": "Birthday",
+    "year": 2026,
+    "colors": [
+      "Lavender",
+      "Royal Blue",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Photo Booth",
+      "Drapery",
+      "Centerpiece"
+    ],
+    "tags": [
+      "birthday",
+      "art-deco",
+      "lavender",
+      "royal-blue",
+      "burgundy",
+      "photo-booth",
+      "drapery",
+      "centerpiece"
+    ],
+    "description": "A art deco birthday for Nova Pharma at ITC Grand Central. Featuring photo booth, drapery, centerpiece in a palette of lavender, royal blue, burgundy.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2026-01-08T13:57:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_13",
+    "name": "Rustic Corporate — Drapery.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/213/800/600",
+    "fileSize": 7039368,
+    "dimensions": null,
+    "client": "The Mehta Family",
+    "venue": "Vineyard Estate",
+    "theme": "Rustic",
+    "eventType": "Corporate",
+    "year": 2026,
+    "colors": [
+      "Emerald",
+      "Burgundy",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Drapery",
+      "Mandap",
+      "Photo Booth"
+    ],
+    "tags": [
+      "corporate",
+      "rustic",
+      "emerald",
+      "burgundy",
+      "blush-pink",
+      "drapery",
+      "mandap",
+      "photo-booth"
+    ],
+    "description": "A rustic corporate for The Mehta Family at Vineyard Estate. Featuring drapery, mandap, photo booth in a palette of emerald, burgundy, blush pink.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2026-01-04T11:52:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_08",
+    "name": "Rustic Festival — Entrance Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/208/800/600",
+    "fileSize": 5674805,
+    "dimensions": {
+      "width": 3840,
+      "height": 4000
+    },
+    "client": "The Mehta Family",
+    "venue": "Marina Bay Hall",
+    "theme": "Rustic",
+    "eventType": "Festival",
+    "year": 2026,
+    "colors": [
+      "Emerald",
+      "Teal"
+    ],
+    "designElements": [
+      "Entrance Decor",
+      "Floral Arch",
+      "Drapery"
+    ],
+    "tags": [
+      "festival",
+      "rustic",
+      "emerald",
+      "teal",
+      "entrance-decor",
+      "floral-arch",
+      "drapery"
+    ],
+    "description": "A rustic festival for The Mehta Family at Marina Bay Hall. Featuring entrance decor, floral arch, drapery in a palette of emerald, teal.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2026-01-03T16:06:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_65",
+    "name": "Royal Heritage Wedding — Lounge Setup.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/265/800/600",
+    "fileSize": 4388963,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "Crestline Capital",
+    "venue": "Marina Bay Hall",
+    "theme": "Royal Heritage",
+    "eventType": "Wedding",
+    "year": 2025,
+    "colors": [
+      "Blush Pink",
+      "Champagne"
+    ],
+    "designElements": [
+      "Lounge Setup",
+      "Table Setting"
+    ],
+    "tags": [
+      "wedding",
+      "royal-heritage",
+      "blush-pink",
+      "champagne",
+      "lounge-setup",
+      "table-setting"
+    ],
+    "description": "A royal heritage wedding for Crestline Capital at Marina Bay Hall. Featuring lounge setup, table setting in a palette of blush pink, champagne.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-12-06T08:49:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_05",
+    "name": "Vintage Reception — Table Setting.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/205/800/600",
+    "fileSize": 199634819,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Aurora Hotels",
+    "venue": "Marina Bay Hall",
+    "theme": "Vintage",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "Blush Pink",
+      "Lavender"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Lighting Design",
+      "Centerpiece"
+    ],
+    "tags": [
+      "reception",
+      "vintage",
+      "blush-pink",
+      "lavender",
+      "table-setting",
+      "lighting-design",
+      "centerpiece"
+    ],
+    "description": "A vintage reception for Aurora Hotels at Marina Bay Hall. Featuring table setting, lighting design, centerpiece in a palette of blush pink, lavender.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-10-25T16:04:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_58",
+    "name": "Tropical Wedding — Mandap.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/258/800/600",
+    "fileSize": 4220132,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "Verma & Co.",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Tropical",
+    "eventType": "Wedding",
+    "year": 2025,
+    "colors": [
+      "Royal Blue",
+      "Teal",
+      "Gold"
+    ],
+    "designElements": [
+      "Mandap"
+    ],
+    "tags": [
+      "wedding",
+      "tropical",
+      "royal-blue",
+      "teal",
+      "gold",
+      "mandap"
+    ],
+    "description": "A tropical wedding for Verma & Co. at Taj Falaknuma Palace. Featuring mandap in a palette of royal blue, teal, gold.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-10-20T13:19:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_24",
+    "name": "Luxury Product Launch — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/224/800/600",
+    "fileSize": 5152866,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "The Reddy Family",
+    "venue": "Marina Bay Hall",
+    "theme": "Luxury",
+    "eventType": "Product Launch",
+    "year": 2025,
+    "colors": [
+      "Champagne",
+      "Black",
+      "Lavender"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Centerpiece"
+    ],
+    "tags": [
+      "product-launch",
+      "luxury",
+      "champagne",
+      "black",
+      "lavender",
+      "floral-arch",
+      "centerpiece"
+    ],
+    "description": "A luxury product launch for The Reddy Family at Marina Bay Hall. Featuring floral arch, centerpiece in a palette of champagne, black, lavender.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-10-08T17:57:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_100",
+    "name": "Modern Minimal Festival — Stage Backdrop.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/300/800/600",
+    "fileSize": 2076816,
+    "dimensions": null,
+    "client": "The Mehta Family",
+    "venue": "Leela Convention Centre",
+    "theme": "Modern Minimal",
+    "eventType": "Festival",
+    "year": 2025,
+    "colors": [
+      "Gold",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Stage Backdrop",
+      "Chandelier",
+      "Table Setting"
+    ],
+    "tags": [
+      "festival",
+      "modern-minimal",
+      "gold",
+      "burgundy",
+      "stage-backdrop",
+      "chandelier",
+      "table-setting"
+    ],
+    "description": "A modern minimal festival for The Mehta Family at Leela Convention Centre. Featuring stage backdrop, chandelier, table setting in a palette of gold, burgundy.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-09-02T10:19:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_69",
+    "name": "Contemporary Anniversary — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/269/800/600",
+    "fileSize": 5624073,
+    "dimensions": {
+      "width": 3840,
+      "height": 2160
+    },
+    "client": "Sterling Group",
+    "venue": "The Oberoi Gardens",
+    "theme": "Contemporary",
+    "eventType": "Anniversary",
+    "year": 2025,
+    "colors": [
+      "Lavender",
+      "Teal",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "anniversary",
+      "contemporary",
+      "lavender",
+      "teal",
+      "royal-blue",
+      "floral-arch",
+      "aisle-decor"
+    ],
+    "description": "A contemporary anniversary for Sterling Group at The Oberoi Gardens. Featuring floral arch, aisle decor in a palette of lavender, teal, royal blue.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-08-27T15:00:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_25",
+    "name": "Fairytale Reception — Aisle Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/225/800/600",
+    "fileSize": 2728312,
+    "dimensions": {
+      "width": 4928,
+      "height": 3648
+    },
+    "client": "The Reddy Family",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Fairytale",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "Blush Pink",
+      "Teal",
+      "Black"
+    ],
+    "designElements": [
+      "Aisle Decor"
+    ],
+    "tags": [
+      "reception",
+      "fairytale",
+      "blush-pink",
+      "teal",
+      "black",
+      "aisle-decor"
+    ],
+    "description": "A fairytale reception for The Reddy Family at Taj Falaknuma Palace. Featuring aisle decor in a palette of blush pink, teal, black.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-07-07T08:26:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_29",
+    "name": "Fairytale Corporate — Lounge Setup.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/229/800/600",
+    "fileSize": 8788682,
+    "dimensions": null,
+    "client": "Sterling Group",
+    "venue": "ITC Grand Central",
+    "theme": "Fairytale",
+    "eventType": "Corporate",
+    "year": 2025,
+    "colors": [
+      "Black",
+      "Royal Blue",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Lounge Setup"
+    ],
+    "tags": [
+      "corporate",
+      "fairytale",
+      "black",
+      "royal-blue",
+      "blush-pink",
+      "lounge-setup"
+    ],
+    "description": "A fairytale corporate for Sterling Group at ITC Grand Central. Featuring lounge setup in a palette of black, royal blue, blush pink.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-07-05T14:06:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_87",
+    "name": "Art Deco Festival — Lighting Design.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/287/800/600",
+    "fileSize": 149673846,
+    "dimensions": {
+      "width": 3840,
+      "height": 4000
+    },
+    "client": "Verma & Co.",
+    "venue": "Goa Beach Resort",
+    "theme": "Art Deco",
+    "eventType": "Festival",
+    "year": 2025,
+    "colors": [
+      "Black",
+      "Champagne"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "festival",
+      "art-deco",
+      "black",
+      "champagne",
+      "lighting-design",
+      "aisle-decor"
+    ],
+    "description": "A art deco festival for Verma & Co. at Goa Beach Resort. Featuring lighting design, aisle decor in a palette of black, champagne.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-06-25T15:46:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_06",
+    "name": "Tropical Corporate — Floral Arch.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/206/800/600",
+    "fileSize": 156009812,
+    "dimensions": {
+      "width": 3840,
+      "height": 4000
+    },
+    "client": "Sterling Group",
+    "venue": "Jaipur City Palace",
+    "theme": "Tropical",
+    "eventType": "Corporate",
+    "year": 2025,
+    "colors": [
+      "Royal Blue",
+      "Gold"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "corporate",
+      "tropical",
+      "royal-blue",
+      "gold",
+      "floral-arch"
+    ],
+    "description": "A tropical corporate for Sterling Group at Jaipur City Palace. Featuring floral arch in a palette of royal blue, gold.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-06-01T15:34:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_88",
+    "name": "Modern Minimal Conference — Mandap.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/288/800/600",
+    "fileSize": 7155089,
+    "dimensions": {
+      "width": 5472,
+      "height": 3648
+    },
+    "client": "Saffron Weddings",
+    "venue": "Riverside Lawns",
+    "theme": "Modern Minimal",
+    "eventType": "Conference",
+    "year": 2025,
+    "colors": [
+      "Lavender",
+      "White",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Mandap"
+    ],
+    "tags": [
+      "conference",
+      "modern-minimal",
+      "lavender",
+      "white",
+      "blush-pink",
+      "mandap"
+    ],
+    "description": "A modern minimal conference for Saffron Weddings at Riverside Lawns. Featuring mandap in a palette of lavender, white, blush pink.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-06-01T08:41:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_83",
+    "name": "Rustic Reception — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/283/800/600",
+    "fileSize": 6059504,
+    "dimensions": {
+      "width": 3840,
+      "height": 3648
+    },
+    "client": "Banyan Estates",
+    "venue": "Udaipur Lake Palace",
+    "theme": "Rustic",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "Teal",
+      "Gold",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Floral Arch",
+      "Lighting Design"
+    ],
+    "tags": [
+      "reception",
+      "rustic",
+      "teal",
+      "gold",
+      "burgundy",
+      "table-setting",
+      "floral-arch",
+      "lighting-design"
+    ],
+    "description": "A rustic reception for Banyan Estates at Udaipur Lake Palace. Featuring table setting, floral arch, lighting design in a palette of teal, gold, burgundy.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-04-05T17:40:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_78",
+    "name": "Tropical Reception — Mandap.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/278/800/600",
+    "fileSize": 213694430,
+    "dimensions": {
+      "width": 4928,
+      "height": 3264
+    },
+    "client": "Royal Orchid",
+    "venue": "Leela Convention Centre",
+    "theme": "Tropical",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "Champagne",
+      "Teal"
+    ],
+    "designElements": [
+      "Mandap",
+      "Floral Arch",
+      "Drapery"
+    ],
+    "tags": [
+      "reception",
+      "tropical",
+      "champagne",
+      "teal",
+      "mandap",
+      "floral-arch",
+      "drapery"
+    ],
+    "description": "A tropical reception for Royal Orchid at Leela Convention Centre. Featuring mandap, floral arch, drapery in a palette of champagne, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-04-03T08:12:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_01",
+    "name": "Luxury Festival — Floral Arch.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/201/800/600",
+    "fileSize": 2433033,
+    "dimensions": null,
+    "client": "Verma & Co.",
+    "venue": "Vineyard Estate",
+    "theme": "Luxury",
+    "eventType": "Festival",
+    "year": 2025,
+    "colors": [
+      "Lavender",
+      "Royal Blue",
+      "White"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "festival",
+      "luxury",
+      "lavender",
+      "royal-blue",
+      "white",
+      "floral-arch"
+    ],
+    "description": "A luxury festival for Verma & Co. at Vineyard Estate. Featuring floral arch in a palette of lavender, royal blue, white.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-03-21T09:33:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_16",
+    "name": "Luxury Festival — Mandap.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/216/800/600",
+    "fileSize": 6987110,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "Saffron Weddings",
+    "venue": "Mountain Vista Resort",
+    "theme": "Luxury",
+    "eventType": "Festival",
+    "year": 2025,
+    "colors": [
+      "Burgundy",
+      "White"
+    ],
+    "designElements": [
+      "Mandap",
+      "Table Setting",
+      "Centerpiece"
+    ],
+    "tags": [
+      "festival",
+      "luxury",
+      "burgundy",
+      "white",
+      "mandap",
+      "table-setting",
+      "centerpiece"
+    ],
+    "description": "A luxury festival for Saffron Weddings at Mountain Vista Resort. Featuring mandap, table setting, centerpiece in a palette of burgundy, white.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-03-15T09:50:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_81",
+    "name": "Fairytale Gala — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/281/800/600",
+    "fileSize": 3638625,
+    "dimensions": null,
+    "client": "House of Kapoor",
+    "venue": "Riverside Lawns",
+    "theme": "Fairytale",
+    "eventType": "Gala",
+    "year": 2025,
+    "colors": [
+      "Black",
+      "Coral"
+    ],
+    "designElements": [
+      "Lighting Design"
+    ],
+    "tags": [
+      "gala",
+      "fairytale",
+      "black",
+      "coral",
+      "lighting-design"
+    ],
+    "description": "A fairytale gala for House of Kapoor at Riverside Lawns. Featuring lighting design in a palette of black, coral.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-03-13T10:34:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_40",
+    "name": "Rustic Conference — Floral Arch.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/240/800/600",
+    "fileSize": 1845552,
+    "dimensions": null,
+    "client": "Verma & Co.",
+    "venue": "The Imperial Ballroom",
+    "theme": "Rustic",
+    "eventType": "Conference",
+    "year": 2025,
+    "colors": [
+      "White",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "conference",
+      "rustic",
+      "white",
+      "blush-pink",
+      "floral-arch"
+    ],
+    "description": "A rustic conference for Verma & Co. at The Imperial Ballroom. Featuring floral arch in a palette of white, blush pink.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-03-10T13:07:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_89",
+    "name": "Vintage Product Launch — Entrance Decor.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/289/800/600",
+    "fileSize": 16514537,
+    "dimensions": null,
+    "client": "Lumen Technologies",
+    "venue": "Goa Beach Resort",
+    "theme": "Vintage",
+    "eventType": "Product Launch",
+    "year": 2025,
+    "colors": [
+      "Lavender",
+      "Teal",
+      "Gold"
+    ],
+    "designElements": [
+      "Entrance Decor"
+    ],
+    "tags": [
+      "product-launch",
+      "vintage",
+      "lavender",
+      "teal",
+      "gold",
+      "entrance-decor"
+    ],
+    "description": "A vintage product launch for Lumen Technologies at Goa Beach Resort. Featuring entrance decor in a palette of lavender, teal, gold.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-02-16T09:53:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_03",
+    "name": "Art Deco Reception — Table Setting.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/203/800/600",
+    "fileSize": 3502193,
+    "dimensions": null,
+    "client": "Banyan Estates",
+    "venue": "Mountain Vista Resort",
+    "theme": "Art Deco",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "Champagne",
+      "White"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Drapery"
+    ],
+    "tags": [
+      "reception",
+      "art-deco",
+      "champagne",
+      "white",
+      "table-setting",
+      "drapery"
+    ],
+    "description": "A art deco reception for Banyan Estates at Mountain Vista Resort. Featuring table setting, drapery in a palette of champagne, white.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-01-12T17:04:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_74",
+    "name": "Contemporary Reception — Centerpiece.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/274/800/600",
+    "fileSize": 3695629,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Sterling Group",
+    "venue": "Leela Convention Centre",
+    "theme": "Contemporary",
+    "eventType": "Reception",
+    "year": 2025,
+    "colors": [
+      "White",
+      "Champagne"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Table Setting"
+    ],
+    "tags": [
+      "reception",
+      "contemporary",
+      "white",
+      "champagne",
+      "centerpiece",
+      "table-setting"
+    ],
+    "description": "A contemporary reception for Sterling Group at Leela Convention Centre. Featuring centerpiece, table setting in a palette of white, champagne.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2025-01-07T16:44:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_64",
+    "name": "Fairytale Conference — Mandap.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/264/800/600",
+    "fileSize": 1793777,
+    "dimensions": null,
+    "client": "Banyan Estates",
+    "venue": "The Oberoi Gardens",
+    "theme": "Fairytale",
+    "eventType": "Conference",
+    "year": 2025,
+    "colors": [
+      "Ivory",
+      "Blush Pink",
+      "Gold"
+    ],
+    "designElements": [
+      "Mandap",
+      "Lounge Setup"
+    ],
+    "tags": [
+      "conference",
+      "fairytale",
+      "ivory",
+      "blush-pink",
+      "gold",
+      "mandap",
+      "lounge-setup"
+    ],
+    "description": "A fairytale conference for Banyan Estates at The Oberoi Gardens. Featuring mandap, lounge setup in a palette of ivory, blush pink, gold.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2025-01-06T16:02:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_71",
+    "name": "Bohemian Corporate — Photo Booth.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/271/800/600",
+    "fileSize": 3327277,
+    "dimensions": null,
+    "client": "The Mehta Family",
+    "venue": "The Oberoi Gardens",
+    "theme": "Bohemian",
+    "eventType": "Corporate",
+    "year": 2025,
+    "colors": [
+      "Emerald",
+      "Lavender"
+    ],
+    "designElements": [
+      "Photo Booth",
+      "Centerpiece",
+      "Floral Arch"
+    ],
+    "tags": [
+      "corporate",
+      "bohemian",
+      "emerald",
+      "lavender",
+      "photo-booth",
+      "centerpiece",
+      "floral-arch"
+    ],
+    "description": "A bohemian corporate for The Mehta Family at The Oberoi Gardens. Featuring photo booth, centerpiece, floral arch in a palette of emerald, lavender.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2025-01-02T14:50:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_84",
+    "name": "Bohemian Corporate — Floral Arch.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/284/800/600",
+    "fileSize": 221048679,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Royal Orchid",
+    "venue": "Vineyard Estate",
+    "theme": "Bohemian",
+    "eventType": "Corporate",
+    "year": 2024,
+    "colors": [
+      "Gold",
+      "Teal"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Lounge Setup",
+      "Chandelier"
+    ],
+    "tags": [
+      "corporate",
+      "bohemian",
+      "gold",
+      "teal",
+      "floral-arch",
+      "lounge-setup",
+      "chandelier"
+    ],
+    "description": "A bohemian corporate for Royal Orchid at Vineyard Estate. Featuring floral arch, lounge setup, chandelier in a palette of gold, teal.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2024-10-26T10:47:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_94",
+    "name": "Fairytale Wedding — Centerpiece.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/294/800/600",
+    "fileSize": 183052993,
+    "dimensions": {
+      "width": 5472,
+      "height": 3648
+    },
+    "client": "Nova Pharma",
+    "venue": "The Imperial Ballroom",
+    "theme": "Fairytale",
+    "eventType": "Wedding",
+    "year": 2024,
+    "colors": [
+      "Blush Pink",
+      "Champagne",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Table Setting"
+    ],
+    "tags": [
+      "wedding",
+      "fairytale",
+      "blush-pink",
+      "champagne",
+      "burgundy",
+      "centerpiece",
+      "table-setting"
+    ],
+    "description": "A fairytale wedding for Nova Pharma at The Imperial Ballroom. Featuring centerpiece, table setting in a palette of blush pink, champagne, burgundy.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-10-21T14:58:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_46",
+    "name": "Fairytale Gala — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/246/800/600",
+    "fileSize": 3116246,
+    "dimensions": {
+      "width": 4928,
+      "height": 3648
+    },
+    "client": "Royal Orchid",
+    "venue": "Mountain Vista Resort",
+    "theme": "Fairytale",
+    "eventType": "Gala",
+    "year": 2024,
+    "colors": [
+      "White",
+      "Coral"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "gala",
+      "fairytale",
+      "white",
+      "coral",
+      "table-setting",
+      "aisle-decor"
+    ],
+    "description": "A fairytale gala for Royal Orchid at Mountain Vista Resort. Featuring table setting, aisle decor in a palette of white, coral.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-10-02T18:45:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_72",
+    "name": "Fairytale Birthday — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/272/800/600",
+    "fileSize": 1824445,
+    "dimensions": null,
+    "client": "Nova Pharma",
+    "venue": "Goa Beach Resort",
+    "theme": "Fairytale",
+    "eventType": "Birthday",
+    "year": 2024,
+    "colors": [
+      "Teal",
+      "Lavender"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Centerpiece",
+      "Chandelier"
+    ],
+    "tags": [
+      "birthday",
+      "fairytale",
+      "teal",
+      "lavender",
+      "lighting-design",
+      "centerpiece",
+      "chandelier"
+    ],
+    "description": "A fairytale birthday for Nova Pharma at Goa Beach Resort. Featuring lighting design, centerpiece, chandelier in a palette of teal, lavender.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2024-09-12T13:06:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_30",
+    "name": "Luxury Engagement — Drapery.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/230/800/600",
+    "fileSize": 11841368,
+    "dimensions": null,
+    "client": "Aurora Hotels",
+    "venue": "ITC Grand Central",
+    "theme": "Luxury",
+    "eventType": "Engagement",
+    "year": 2024,
+    "colors": [
+      "Gold",
+      "Champagne"
+    ],
+    "designElements": [
+      "Drapery",
+      "Floral Arch",
+      "Mandap"
+    ],
+    "tags": [
+      "engagement",
+      "luxury",
+      "gold",
+      "champagne",
+      "drapery",
+      "floral-arch",
+      "mandap"
+    ],
+    "description": "A luxury engagement for Aurora Hotels at ITC Grand Central. Featuring drapery, floral arch, mandap in a palette of gold, champagne.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2024-09-06T17:44:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_79",
+    "name": "Tropical Corporate — Chandelier.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/279/800/600",
+    "fileSize": 2344014,
+    "dimensions": {
+      "width": 4928,
+      "height": 3264
+    },
+    "client": "Saffron Weddings",
+    "venue": "Riverside Lawns",
+    "theme": "Tropical",
+    "eventType": "Corporate",
+    "year": 2024,
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "designElements": [
+      "Chandelier"
+    ],
+    "tags": [
+      "corporate",
+      "tropical",
+      "white",
+      "black",
+      "chandelier"
+    ],
+    "description": "A tropical corporate for Saffron Weddings at Riverside Lawns. Featuring chandelier in a palette of white, black.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2024-07-22T08:14:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_07",
+    "name": "Royal Heritage Conference — Centerpiece.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/207/800/600",
+    "fileSize": 6343036,
+    "dimensions": {
+      "width": 3840,
+      "height": 4000
+    },
+    "client": "The Reddy Family",
+    "venue": "Mountain Vista Resort",
+    "theme": "Royal Heritage",
+    "eventType": "Conference",
+    "year": 2024,
+    "colors": [
+      "Emerald",
+      "Lavender",
+      "Teal"
+    ],
+    "designElements": [
+      "Centerpiece"
+    ],
+    "tags": [
+      "conference",
+      "royal-heritage",
+      "emerald",
+      "lavender",
+      "teal",
+      "centerpiece"
+    ],
+    "description": "A royal heritage conference for The Reddy Family at Mountain Vista Resort. Featuring centerpiece in a palette of emerald, lavender, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-06-24T14:54:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_82",
+    "name": "Tropical Anniversary — Aisle Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/282/800/600",
+    "fileSize": 6447297,
+    "dimensions": {
+      "width": 6000,
+      "height": 3264
+    },
+    "client": "Aurora Hotels",
+    "venue": "Goa Beach Resort",
+    "theme": "Tropical",
+    "eventType": "Anniversary",
+    "year": 2024,
+    "colors": [
+      "Blush Pink",
+      "Burgundy",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Aisle Decor",
+      "Entrance Decor",
+      "Floral Arch"
+    ],
+    "tags": [
+      "anniversary",
+      "tropical",
+      "blush-pink",
+      "burgundy",
+      "royal-blue",
+      "aisle-decor",
+      "entrance-decor",
+      "floral-arch"
+    ],
+    "description": "A tropical anniversary for Aurora Hotels at Goa Beach Resort. Featuring aisle decor, entrance decor, floral arch in a palette of blush pink, burgundy, royal blue.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2024-06-23T17:58:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_86",
+    "name": "Rustic Wedding — Mandap.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/286/800/600",
+    "fileSize": 1503000,
+    "dimensions": null,
+    "client": "The Reddy Family",
+    "venue": "Jaipur City Palace",
+    "theme": "Rustic",
+    "eventType": "Wedding",
+    "year": 2024,
+    "colors": [
+      "White",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Mandap",
+      "Lounge Setup"
+    ],
+    "tags": [
+      "wedding",
+      "rustic",
+      "white",
+      "burgundy",
+      "mandap",
+      "lounge-setup"
+    ],
+    "description": "A rustic wedding for The Reddy Family at Jaipur City Palace. Featuring mandap, lounge setup in a palette of white, burgundy.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-06-23T17:03:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_04",
+    "name": "Bohemian Product Launch — Drapery.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/204/800/600",
+    "fileSize": 5047335,
+    "dimensions": {
+      "width": 6000,
+      "height": 2160
+    },
+    "client": "Nova Pharma",
+    "venue": "Goa Beach Resort",
+    "theme": "Bohemian",
+    "eventType": "Product Launch",
+    "year": 2024,
+    "colors": [
+      "Ivory",
+      "Royal Blue",
+      "Teal"
+    ],
+    "designElements": [
+      "Drapery",
+      "Mandap"
+    ],
+    "tags": [
+      "product-launch",
+      "bohemian",
+      "ivory",
+      "royal-blue",
+      "teal",
+      "drapery",
+      "mandap"
+    ],
+    "description": "A bohemian product launch for Nova Pharma at Goa Beach Resort. Featuring drapery, mandap in a palette of ivory, royal blue, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-05-16T11:40:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_80",
+    "name": "Tropical Engagement — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/280/800/600",
+    "fileSize": 5922259,
+    "dimensions": {
+      "width": 5472,
+      "height": 3648
+    },
+    "client": "Verma & Co.",
+    "venue": "Jaipur City Palace",
+    "theme": "Tropical",
+    "eventType": "Engagement",
+    "year": 2024,
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Mandap"
+    ],
+    "tags": [
+      "engagement",
+      "tropical",
+      "white",
+      "black",
+      "table-setting",
+      "mandap"
+    ],
+    "description": "A tropical engagement for Verma & Co. at Jaipur City Palace. Featuring table setting, mandap in a palette of white, black.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2024-04-16T18:51:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_85",
+    "name": "Luxury Engagement — Floral Arch.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/285/800/600",
+    "fileSize": 3151989,
+    "dimensions": null,
+    "client": "House of Kapoor",
+    "venue": "Vineyard Estate",
+    "theme": "Luxury",
+    "eventType": "Engagement",
+    "year": 2024,
+    "colors": [
+      "Ivory",
+      "White"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Drapery",
+      "Stage Backdrop"
+    ],
+    "tags": [
+      "engagement",
+      "luxury",
+      "ivory",
+      "white",
+      "floral-arch",
+      "drapery",
+      "stage-backdrop"
+    ],
+    "description": "A luxury engagement for House of Kapoor at Vineyard Estate. Featuring floral arch, drapery, stage backdrop in a palette of ivory, white.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2024-02-10T10:51:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_95",
+    "name": "Modern Minimal Birthday — Table Setting.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/295/800/600",
+    "fileSize": 69884715,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "Royal Orchid",
+    "venue": "The Oberoi Gardens",
+    "theme": "Modern Minimal",
+    "eventType": "Birthday",
+    "year": 2024,
+    "colors": [
+      "Lavender",
+      "Black"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Lighting Design",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "birthday",
+      "modern-minimal",
+      "lavender",
+      "black",
+      "table-setting",
+      "lighting-design",
+      "aisle-decor"
+    ],
+    "description": "A modern minimal birthday for Royal Orchid at The Oberoi Gardens. Featuring table setting, lighting design, aisle decor in a palette of lavender, black.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2024-01-02T09:08:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_50",
+    "name": "Luxury Wedding — Drapery.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/250/800/600",
+    "fileSize": 6120221,
+    "dimensions": {
+      "width": 6000,
+      "height": 3264
+    },
+    "client": "The Mehta Family",
+    "venue": "Leela Convention Centre",
+    "theme": "Luxury",
+    "eventType": "Wedding",
+    "year": 2023,
+    "colors": [
+      "White",
+      "Black",
+      "Teal"
+    ],
+    "designElements": [
+      "Drapery",
+      "Table Setting",
+      "Stage Backdrop"
+    ],
+    "tags": [
+      "wedding",
+      "luxury",
+      "white",
+      "black",
+      "teal",
+      "drapery",
+      "table-setting",
+      "stage-backdrop"
+    ],
+    "description": "A luxury wedding for The Mehta Family at Leela Convention Centre. Featuring drapery, table setting, stage backdrop in a palette of white, black, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2023-12-22T16:01:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_53",
+    "name": "Vintage Corporate — Lounge Setup.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/253/800/600",
+    "fileSize": 4312885,
+    "dimensions": {
+      "width": 6000,
+      "height": 3648
+    },
+    "client": "Lumen Technologies",
+    "venue": "Marina Bay Hall",
+    "theme": "Vintage",
+    "eventType": "Corporate",
+    "year": 2023,
+    "colors": [
+      "Black",
+      "Lavender",
+      "Teal"
+    ],
+    "designElements": [
+      "Lounge Setup"
+    ],
+    "tags": [
+      "corporate",
+      "vintage",
+      "black",
+      "lavender",
+      "teal",
+      "lounge-setup"
+    ],
+    "description": "A vintage corporate for Lumen Technologies at Marina Bay Hall. Featuring lounge setup in a palette of black, lavender, teal.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-12-14T15:54:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_09",
+    "name": "Fairytale Gala — Photo Booth.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/209/800/600",
+    "fileSize": 6282035,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "Nova Pharma",
+    "venue": "Leela Convention Centre",
+    "theme": "Fairytale",
+    "eventType": "Gala",
+    "year": 2023,
+    "colors": [
+      "Lavender",
+      "Black",
+      "White"
+    ],
+    "designElements": [
+      "Photo Booth"
+    ],
+    "tags": [
+      "gala",
+      "fairytale",
+      "lavender",
+      "black",
+      "white",
+      "photo-booth"
+    ],
+    "description": "A fairytale gala for Nova Pharma at Leela Convention Centre. Featuring photo booth in a palette of lavender, black, white.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2023-12-03T18:42:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_44",
+    "name": "Rustic Festival — Lighting Design.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/244/800/600",
+    "fileSize": 8313779,
+    "dimensions": null,
+    "client": "Sterling Group",
+    "venue": "Vineyard Estate",
+    "theme": "Rustic",
+    "eventType": "Festival",
+    "year": 2023,
+    "colors": [
+      "Burgundy",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Entrance Decor"
+    ],
+    "tags": [
+      "festival",
+      "rustic",
+      "burgundy",
+      "royal-blue",
+      "lighting-design",
+      "entrance-decor"
+    ],
+    "description": "A rustic festival for Sterling Group at Vineyard Estate. Featuring lighting design, entrance decor in a palette of burgundy, royal blue.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2023-08-19T15:23:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_67",
+    "name": "Fairytale Festival — Stage Backdrop.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/267/800/600",
+    "fileSize": 196523891,
+    "dimensions": {
+      "width": 5472,
+      "height": 3264
+    },
+    "client": "Royal Orchid",
+    "venue": "Vineyard Estate",
+    "theme": "Fairytale",
+    "eventType": "Festival",
+    "year": 2023,
+    "colors": [
+      "Lavender",
+      "Teal",
+      "Coral"
+    ],
+    "designElements": [
+      "Stage Backdrop",
+      "Floral Arch",
+      "Centerpiece"
+    ],
+    "tags": [
+      "festival",
+      "fairytale",
+      "lavender",
+      "teal",
+      "coral",
+      "stage-backdrop",
+      "floral-arch",
+      "centerpiece"
+    ],
+    "description": "A fairytale festival for Royal Orchid at Vineyard Estate. Featuring stage backdrop, floral arch, centerpiece in a palette of lavender, teal, coral.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2023-07-15T15:15:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_55",
+    "name": "Royal Heritage Gala — Centerpiece.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/255/800/600",
+    "fileSize": 5656201,
+    "dimensions": null,
+    "client": "Royal Orchid",
+    "venue": "Goa Beach Resort",
+    "theme": "Royal Heritage",
+    "eventType": "Gala",
+    "year": 2023,
+    "colors": [
+      "White",
+      "Teal"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Aisle Decor",
+      "Drapery"
+    ],
+    "tags": [
+      "gala",
+      "royal-heritage",
+      "white",
+      "teal",
+      "centerpiece",
+      "aisle-decor",
+      "drapery"
+    ],
+    "description": "A royal heritage gala for Royal Orchid at Goa Beach Resort. Featuring centerpiece, aisle decor, drapery in a palette of white, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2023-07-01T11:08:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_56",
+    "name": "Royal Heritage Anniversary — Entrance Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/256/800/600",
+    "fileSize": 6374302,
+    "dimensions": {
+      "width": 3840,
+      "height": 2160
+    },
+    "client": "Lumen Technologies",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Royal Heritage",
+    "eventType": "Anniversary",
+    "year": 2023,
+    "colors": [
+      "Ivory",
+      "Royal Blue",
+      "Black"
+    ],
+    "designElements": [
+      "Entrance Decor",
+      "Chandelier",
+      "Lighting Design"
+    ],
+    "tags": [
+      "anniversary",
+      "royal-heritage",
+      "ivory",
+      "royal-blue",
+      "black",
+      "entrance-decor",
+      "chandelier",
+      "lighting-design"
+    ],
+    "description": "A royal heritage anniversary for Lumen Technologies at Taj Falaknuma Palace. Featuring entrance decor, chandelier, lighting design in a palette of ivory, royal blue, black.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2023-06-21T13:05:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_23",
+    "name": "Royal Heritage Anniversary — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/223/800/600",
+    "fileSize": 6492241,
+    "dimensions": {
+      "width": 6000,
+      "height": 3648
+    },
+    "client": "Lumen Technologies",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Royal Heritage",
+    "eventType": "Anniversary",
+    "year": 2023,
+    "colors": [
+      "Burgundy",
+      "Black"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "anniversary",
+      "royal-heritage",
+      "burgundy",
+      "black",
+      "floral-arch",
+      "aisle-decor"
+    ],
+    "description": "A royal heritage anniversary for Lumen Technologies at Taj Falaknuma Palace. Featuring floral arch, aisle decor in a palette of burgundy, black.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-06-03T14:59:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_19",
+    "name": "Art Deco Product Launch — Centerpiece.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/219/800/600",
+    "fileSize": 7515667,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "The Reddy Family",
+    "venue": "ITC Grand Central",
+    "theme": "Art Deco",
+    "eventType": "Product Launch",
+    "year": 2023,
+    "colors": [
+      "Teal",
+      "Ivory"
+    ],
+    "designElements": [
+      "Centerpiece"
+    ],
+    "tags": [
+      "product-launch",
+      "art-deco",
+      "teal",
+      "ivory",
+      "centerpiece"
+    ],
+    "description": "A art deco product launch for The Reddy Family at ITC Grand Central. Featuring centerpiece in a palette of teal, ivory.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2023-04-27T14:07:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_37",
+    "name": "Bohemian Corporate — Aisle Decor.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/237/800/600",
+    "fileSize": 7505077,
+    "dimensions": {
+      "width": 5472,
+      "height": 3264
+    },
+    "client": "Verma & Co.",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Bohemian",
+    "eventType": "Corporate",
+    "year": 2023,
+    "colors": [
+      "Champagne",
+      "Coral",
+      "Gold"
+    ],
+    "designElements": [
+      "Aisle Decor",
+      "Drapery",
+      "Table Setting"
+    ],
+    "tags": [
+      "corporate",
+      "bohemian",
+      "champagne",
+      "coral",
+      "gold",
+      "aisle-decor",
+      "drapery",
+      "table-setting"
+    ],
+    "description": "A bohemian corporate for Verma & Co. at Taj Falaknuma Palace. Featuring aisle decor, drapery, table setting in a palette of champagne, coral, gold.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-04-19T08:48:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_77",
+    "name": "Royal Heritage Anniversary — Table Setting.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/277/800/600",
+    "fileSize": 3719693,
+    "dimensions": null,
+    "client": "Nova Pharma",
+    "venue": "Vineyard Estate",
+    "theme": "Royal Heritage",
+    "eventType": "Anniversary",
+    "year": 2023,
+    "colors": [
+      "Burgundy",
+      "Emerald"
+    ],
+    "designElements": [
+      "Table Setting"
+    ],
+    "tags": [
+      "anniversary",
+      "royal-heritage",
+      "burgundy",
+      "emerald",
+      "table-setting"
+    ],
+    "description": "A royal heritage anniversary for Nova Pharma at Vineyard Estate. Featuring table setting in a palette of burgundy, emerald.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-03-23T18:24:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_34",
+    "name": "Luxury Engagement — Stage Backdrop.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/234/800/600",
+    "fileSize": 6505097,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "Nova Pharma",
+    "venue": "Marina Bay Hall",
+    "theme": "Luxury",
+    "eventType": "Engagement",
+    "year": 2023,
+    "colors": [
+      "Teal",
+      "Champagne",
+      "Lavender"
+    ],
+    "designElements": [
+      "Stage Backdrop",
+      "Photo Booth",
+      "Chandelier"
+    ],
+    "tags": [
+      "engagement",
+      "luxury",
+      "teal",
+      "champagne",
+      "lavender",
+      "stage-backdrop",
+      "photo-booth",
+      "chandelier"
+    ],
+    "description": "A luxury engagement for Nova Pharma at Marina Bay Hall. Featuring stage backdrop, photo booth, chandelier in a palette of teal, champagne, lavender.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2023-03-16T13:45:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_52",
+    "name": "Fairytale Conference — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/252/800/600",
+    "fileSize": 7620512,
+    "dimensions": {
+      "width": 6000,
+      "height": 3264
+    },
+    "client": "The Mehta Family",
+    "venue": "Leela Convention Centre",
+    "theme": "Fairytale",
+    "eventType": "Conference",
+    "year": 2023,
+    "colors": [
+      "Lavender",
+      "Champagne",
+      "Teal"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Mandap",
+      "Aisle Decor"
+    ],
+    "tags": [
+      "conference",
+      "fairytale",
+      "lavender",
+      "champagne",
+      "teal",
+      "floral-arch",
+      "mandap",
+      "aisle-decor"
+    ],
+    "description": "A fairytale conference for The Mehta Family at Leela Convention Centre. Featuring floral arch, mandap, aisle decor in a palette of lavender, champagne, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2023-03-07T14:26:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_62",
+    "name": "Rustic Reception — Floral Arch.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/262/800/600",
+    "fileSize": 204793532,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "Aurora Hotels",
+    "venue": "The Oberoi Gardens",
+    "theme": "Rustic",
+    "eventType": "Reception",
+    "year": 2023,
+    "colors": [
+      "Lavender",
+      "Emerald"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "reception",
+      "rustic",
+      "lavender",
+      "emerald",
+      "floral-arch"
+    ],
+    "description": "A rustic reception for Aurora Hotels at The Oberoi Gardens. Featuring floral arch in a palette of lavender, emerald.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-02-01T12:53:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_92",
+    "name": "Luxury Product Launch — Lighting Design.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/292/800/600",
+    "fileSize": 6234858,
+    "dimensions": {
+      "width": 3840,
+      "height": 3264
+    },
+    "client": "Verma & Co.",
+    "venue": "Goa Beach Resort",
+    "theme": "Luxury",
+    "eventType": "Product Launch",
+    "year": 2023,
+    "colors": [
+      "Emerald",
+      "Ivory"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Table Setting",
+      "Photo Booth"
+    ],
+    "tags": [
+      "product-launch",
+      "luxury",
+      "emerald",
+      "ivory",
+      "lighting-design",
+      "table-setting",
+      "photo-booth"
+    ],
+    "description": "A luxury product launch for Verma & Co. at Goa Beach Resort. Featuring lighting design, table setting, photo booth in a palette of emerald, ivory.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2023-01-21T10:34:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_99",
+    "name": "Modern Minimal Birthday — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/299/800/600",
+    "fileSize": 5382748,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "Crestline Capital",
+    "venue": "Riverside Lawns",
+    "theme": "Modern Minimal",
+    "eventType": "Birthday",
+    "year": 2022,
+    "colors": [
+      "Ivory",
+      "Black",
+      "Champagne"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Centerpiece"
+    ],
+    "tags": [
+      "birthday",
+      "modern-minimal",
+      "ivory",
+      "black",
+      "champagne",
+      "table-setting",
+      "centerpiece"
+    ],
+    "description": "A modern minimal birthday for Crestline Capital at Riverside Lawns. Featuring table setting, centerpiece in a palette of ivory, black, champagne.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-12-21T09:10:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_39",
+    "name": "Vintage Wedding — Photo Booth.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/239/800/600",
+    "fileSize": 2316600,
+    "dimensions": null,
+    "client": "Lumen Technologies",
+    "venue": "Leela Convention Centre",
+    "theme": "Vintage",
+    "eventType": "Wedding",
+    "year": 2022,
+    "colors": [
+      "Royal Blue",
+      "White",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Photo Booth"
+    ],
+    "tags": [
+      "wedding",
+      "vintage",
+      "royal-blue",
+      "white",
+      "burgundy",
+      "photo-booth"
+    ],
+    "description": "A vintage wedding for Lumen Technologies at Leela Convention Centre. Featuring photo booth in a palette of royal blue, white, burgundy.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-12-14T08:24:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_59",
+    "name": "Luxury Engagement — Chandelier.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/259/800/600",
+    "fileSize": 5237003,
+    "dimensions": null,
+    "client": "Lumen Technologies",
+    "venue": "Udaipur Lake Palace",
+    "theme": "Luxury",
+    "eventType": "Engagement",
+    "year": 2022,
+    "colors": [
+      "Teal",
+      "Blush Pink",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Chandelier"
+    ],
+    "tags": [
+      "engagement",
+      "luxury",
+      "teal",
+      "blush-pink",
+      "royal-blue",
+      "chandelier"
+    ],
+    "description": "A luxury engagement for Lumen Technologies at Udaipur Lake Palace. Featuring chandelier in a palette of teal, blush pink, royal blue.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-12-11T08:47:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_93",
+    "name": "Royal Heritage Reception — Stage Backdrop.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/293/800/600",
+    "fileSize": 7040947,
+    "dimensions": {
+      "width": 6000,
+      "height": 3264
+    },
+    "client": "Saffron Weddings",
+    "venue": "The Imperial Ballroom",
+    "theme": "Royal Heritage",
+    "eventType": "Reception",
+    "year": 2022,
+    "colors": [
+      "Gold",
+      "Blush Pink",
+      "Coral"
+    ],
+    "designElements": [
+      "Stage Backdrop"
+    ],
+    "tags": [
+      "reception",
+      "royal-heritage",
+      "gold",
+      "blush-pink",
+      "coral",
+      "stage-backdrop"
+    ],
+    "description": "A royal heritage reception for Saffron Weddings at The Imperial Ballroom. Featuring stage backdrop in a palette of gold, blush pink, coral.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2022-12-03T18:31:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_02",
+    "name": "Vintage Corporate — Floral Arch.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/202/800/600",
+    "fileSize": 149358146,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "The Mehta Family",
+    "venue": "Leela Convention Centre",
+    "theme": "Vintage",
+    "eventType": "Corporate",
+    "year": 2022,
+    "colors": [
+      "Emerald",
+      "White",
+      "Coral"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Chandelier"
+    ],
+    "tags": [
+      "corporate",
+      "vintage",
+      "emerald",
+      "white",
+      "coral",
+      "floral-arch",
+      "chandelier"
+    ],
+    "description": "A vintage corporate for The Mehta Family at Leela Convention Centre. Featuring floral arch, chandelier in a palette of emerald, white, coral.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-11-23T17:33:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_15",
+    "name": "Royal Heritage Product Launch — Lounge Setup.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/215/800/600",
+    "fileSize": 7167692,
+    "dimensions": {
+      "width": 5472,
+      "height": 3264
+    },
+    "client": "House of Kapoor",
+    "venue": "Riverside Lawns",
+    "theme": "Royal Heritage",
+    "eventType": "Product Launch",
+    "year": 2022,
+    "colors": [
+      "Coral",
+      "Royal Blue",
+      "Black"
+    ],
+    "designElements": [
+      "Lounge Setup",
+      "Photo Booth"
+    ],
+    "tags": [
+      "product-launch",
+      "royal-heritage",
+      "coral",
+      "royal-blue",
+      "black",
+      "lounge-setup",
+      "photo-booth"
+    ],
+    "description": "A royal heritage product launch for House of Kapoor at Riverside Lawns. Featuring lounge setup, photo booth in a palette of coral, royal blue, black.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-11-08T18:12:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_27",
+    "name": "Luxury Reception — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/227/800/600",
+    "fileSize": 7971408,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "Crestline Capital",
+    "venue": "Mountain Vista Resort",
+    "theme": "Luxury",
+    "eventType": "Reception",
+    "year": 2022,
+    "colors": [
+      "Royal Blue",
+      "White"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Lighting Design",
+      "Table Setting"
+    ],
+    "tags": [
+      "reception",
+      "luxury",
+      "royal-blue",
+      "white",
+      "floral-arch",
+      "lighting-design",
+      "table-setting"
+    ],
+    "description": "A luxury reception for Crestline Capital at Mountain Vista Resort. Featuring floral arch, lighting design, table setting in a palette of royal blue, white.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-10-26T09:58:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_14",
+    "name": "Fairytale Anniversary — Entrance Decor.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/214/800/600",
+    "fileSize": 12420801,
+    "dimensions": null,
+    "client": "Banyan Estates",
+    "venue": "Riverside Lawns",
+    "theme": "Fairytale",
+    "eventType": "Anniversary",
+    "year": 2022,
+    "colors": [
+      "Burgundy",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Entrance Decor"
+    ],
+    "tags": [
+      "anniversary",
+      "fairytale",
+      "burgundy",
+      "blush-pink",
+      "entrance-decor"
+    ],
+    "description": "A fairytale anniversary for Banyan Estates at Riverside Lawns. Featuring entrance decor in a palette of burgundy, blush pink.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-10-22T09:59:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_49",
+    "name": "Royal Heritage Gala — Lighting Design.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/249/800/600",
+    "fileSize": 4505022,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "The Reddy Family",
+    "venue": "Mountain Vista Resort",
+    "theme": "Royal Heritage",
+    "eventType": "Gala",
+    "year": 2022,
+    "colors": [
+      "Teal",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Chandelier",
+      "Mandap"
+    ],
+    "tags": [
+      "gala",
+      "royal-heritage",
+      "teal",
+      "burgundy",
+      "lighting-design",
+      "chandelier",
+      "mandap"
+    ],
+    "description": "A royal heritage gala for The Reddy Family at Mountain Vista Resort. Featuring lighting design, chandelier, mandap in a palette of teal, burgundy.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-10-15T17:24:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_51",
+    "name": "Royal Heritage Festival — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/251/800/600",
+    "fileSize": 2452497,
+    "dimensions": {
+      "width": 6000,
+      "height": 2160
+    },
+    "client": "Royal Orchid",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Royal Heritage",
+    "eventType": "Festival",
+    "year": 2022,
+    "colors": [
+      "Champagne",
+      "Coral"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Chandelier"
+    ],
+    "tags": [
+      "festival",
+      "royal-heritage",
+      "champagne",
+      "coral",
+      "floral-arch",
+      "chandelier"
+    ],
+    "description": "A royal heritage festival for Royal Orchid at Taj Falaknuma Palace. Featuring floral arch, chandelier in a palette of champagne, coral.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2022-09-21T09:45:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_91",
+    "name": "Modern Minimal Engagement — Drapery.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/291/800/600",
+    "fileSize": 2422508,
+    "dimensions": null,
+    "client": "Nova Pharma",
+    "venue": "Marina Bay Hall",
+    "theme": "Modern Minimal",
+    "eventType": "Engagement",
+    "year": 2022,
+    "colors": [
+      "Lavender",
+      "Teal"
+    ],
+    "designElements": [
+      "Drapery",
+      "Photo Booth",
+      "Chandelier"
+    ],
+    "tags": [
+      "engagement",
+      "modern-minimal",
+      "lavender",
+      "teal",
+      "drapery",
+      "photo-booth",
+      "chandelier"
+    ],
+    "description": "A modern minimal engagement for Nova Pharma at Marina Bay Hall. Featuring drapery, photo booth, chandelier in a palette of lavender, teal.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-08-20T09:48:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_48",
+    "name": "Vintage Festival — Floral Arch.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/248/800/600",
+    "fileSize": 183133079,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "Royal Orchid",
+    "venue": "Leela Convention Centre",
+    "theme": "Vintage",
+    "eventType": "Festival",
+    "year": 2022,
+    "colors": [
+      "Blush Pink",
+      "Lavender"
+    ],
+    "designElements": [
+      "Floral Arch"
+    ],
+    "tags": [
+      "festival",
+      "vintage",
+      "blush-pink",
+      "lavender",
+      "floral-arch"
+    ],
+    "description": "A vintage festival for Royal Orchid at Leela Convention Centre. Featuring floral arch in a palette of blush pink, lavender.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-08-04T10:20:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_38",
+    "name": "Contemporary Conference — Lighting Design.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/238/800/600",
+    "fileSize": 146289870,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Banyan Estates",
+    "venue": "ITC Grand Central",
+    "theme": "Contemporary",
+    "eventType": "Conference",
+    "year": 2022,
+    "colors": [
+      "Champagne",
+      "Lavender"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Aisle Decor",
+      "Entrance Decor"
+    ],
+    "tags": [
+      "conference",
+      "contemporary",
+      "champagne",
+      "lavender",
+      "lighting-design",
+      "aisle-decor",
+      "entrance-decor"
+    ],
+    "description": "A contemporary conference for Banyan Estates at ITC Grand Central. Featuring lighting design, aisle decor, entrance decor in a palette of champagne, lavender.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-07-22T18:32:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_36",
+    "name": "Fairytale Corporate — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/236/800/600",
+    "fileSize": 1199046,
+    "dimensions": null,
+    "client": "Crestline Capital",
+    "venue": "Leela Convention Centre",
+    "theme": "Fairytale",
+    "eventType": "Corporate",
+    "year": 2022,
+    "colors": [
+      "Ivory",
+      "Teal",
+      "Blush Pink"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Lounge Setup"
+    ],
+    "tags": [
+      "corporate",
+      "fairytale",
+      "ivory",
+      "teal",
+      "blush-pink",
+      "lighting-design",
+      "lounge-setup"
+    ],
+    "description": "A fairytale corporate for Crestline Capital at Leela Convention Centre. Featuring lighting design, lounge setup in a palette of ivory, teal, blush pink.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2022-07-11T09:16:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_47",
+    "name": "Royal Heritage Product Launch — Floral Arch.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/247/800/600",
+    "fileSize": 3786771,
+    "dimensions": null,
+    "client": "House of Kapoor",
+    "venue": "Goa Beach Resort",
+    "theme": "Royal Heritage",
+    "eventType": "Product Launch",
+    "year": 2022,
+    "colors": [
+      "Burgundy",
+      "Lavender",
+      "Ivory"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Aisle Decor",
+      "Lighting Design"
+    ],
+    "tags": [
+      "product-launch",
+      "royal-heritage",
+      "burgundy",
+      "lavender",
+      "ivory",
+      "floral-arch",
+      "aisle-decor",
+      "lighting-design"
+    ],
+    "description": "A royal heritage product launch for House of Kapoor at Goa Beach Resort. Featuring floral arch, aisle decor, lighting design in a palette of burgundy, lavender, ivory.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-06-11T12:05:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_96",
+    "name": "Luxury Wedding — Chandelier.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/296/800/600",
+    "fileSize": 3530179,
+    "dimensions": {
+      "width": 4928,
+      "height": 2160
+    },
+    "client": "Aurora Hotels",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Luxury",
+    "eventType": "Wedding",
+    "year": 2022,
+    "colors": [
+      "Teal",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Chandelier",
+      "Stage Backdrop",
+      "Entrance Decor"
+    ],
+    "tags": [
+      "wedding",
+      "luxury",
+      "teal",
+      "royal-blue",
+      "chandelier",
+      "stage-backdrop",
+      "entrance-decor"
+    ],
+    "description": "A luxury wedding for Aurora Hotels at Taj Falaknuma Palace. Featuring chandelier, stage backdrop, entrance decor in a palette of teal, royal blue.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-05-19T08:34:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_70",
+    "name": "Fairytale Engagement — Lounge Setup.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/270/800/600",
+    "fileSize": 2818452,
+    "dimensions": {
+      "width": 6000,
+      "height": 2160
+    },
+    "client": "Lumen Technologies",
+    "venue": "ITC Grand Central",
+    "theme": "Fairytale",
+    "eventType": "Engagement",
+    "year": 2022,
+    "colors": [
+      "Emerald",
+      "Black",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Lounge Setup",
+      "Floral Arch",
+      "Table Setting"
+    ],
+    "tags": [
+      "engagement",
+      "fairytale",
+      "emerald",
+      "black",
+      "royal-blue",
+      "lounge-setup",
+      "floral-arch",
+      "table-setting"
+    ],
+    "description": "A fairytale engagement for Lumen Technologies at ITC Grand Central. Featuring lounge setup, floral arch, table setting in a palette of emerald, black, royal blue.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2022-03-06T12:49:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_12",
+    "name": "Art Deco Product Launch — Centerpiece.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/212/800/600",
+    "fileSize": 6913255,
+    "dimensions": {
+      "width": 6000,
+      "height": 3264
+    },
+    "client": "Crestline Capital",
+    "venue": "Vineyard Estate",
+    "theme": "Art Deco",
+    "eventType": "Product Launch",
+    "year": 2022,
+    "colors": [
+      "Lavender",
+      "Royal Blue",
+      "Ivory"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Lounge Setup",
+      "Stage Backdrop"
+    ],
+    "tags": [
+      "product-launch",
+      "art-deco",
+      "lavender",
+      "royal-blue",
+      "ivory",
+      "centerpiece",
+      "lounge-setup",
+      "stage-backdrop"
+    ],
+    "description": "A art deco product launch for Crestline Capital at Vineyard Estate. Featuring centerpiece, lounge setup, stage backdrop in a palette of lavender, royal blue, ivory.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2022-02-27T11:33:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_35",
+    "name": "Tropical Conference — Entrance Decor.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/235/800/600",
+    "fileSize": 1952913,
+    "dimensions": null,
+    "client": "Sterling Group",
+    "venue": "Riverside Lawns",
+    "theme": "Tropical",
+    "eventType": "Conference",
+    "year": 2021,
+    "colors": [
+      "White",
+      "Black",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Entrance Decor",
+      "Chandelier",
+      "Photo Booth"
+    ],
+    "tags": [
+      "conference",
+      "tropical",
+      "white",
+      "black",
+      "burgundy",
+      "entrance-decor",
+      "chandelier",
+      "photo-booth"
+    ],
+    "description": "A tropical conference for Sterling Group at Riverside Lawns. Featuring entrance decor, chandelier, photo booth in a palette of white, black, burgundy.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2021-12-10T10:28:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_26",
+    "name": "Contemporary Reception — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/226/800/600",
+    "fileSize": 3043242,
+    "dimensions": null,
+    "client": "Royal Orchid",
+    "venue": "Mountain Vista Resort",
+    "theme": "Contemporary",
+    "eventType": "Reception",
+    "year": 2021,
+    "colors": [
+      "Burgundy",
+      "Gold",
+      "Teal"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Drapery"
+    ],
+    "tags": [
+      "reception",
+      "contemporary",
+      "burgundy",
+      "gold",
+      "teal",
+      "lighting-design",
+      "drapery"
+    ],
+    "description": "A contemporary reception for Royal Orchid at Mountain Vista Resort. Featuring lighting design, drapery in a palette of burgundy, gold, teal.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2021-09-22T14:05:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_28",
+    "name": "Tropical Corporate — Lounge Setup.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/228/800/600",
+    "fileSize": 13274618,
+    "dimensions": null,
+    "client": "Royal Orchid",
+    "venue": "Mountain Vista Resort",
+    "theme": "Tropical",
+    "eventType": "Corporate",
+    "year": 2021,
+    "colors": [
+      "Lavender",
+      "Ivory",
+      "Gold"
+    ],
+    "designElements": [
+      "Lounge Setup"
+    ],
+    "tags": [
+      "corporate",
+      "tropical",
+      "lavender",
+      "ivory",
+      "gold",
+      "lounge-setup"
+    ],
+    "description": "A tropical corporate for Royal Orchid at Mountain Vista Resort. Featuring lounge setup in a palette of lavender, ivory, gold.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-08-14T13:40:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_98",
+    "name": "Modern Minimal Birthday — Photo Booth.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/298/800/600",
+    "fileSize": 209291573,
+    "dimensions": {
+      "width": 4928,
+      "height": 4000
+    },
+    "client": "Lumen Technologies",
+    "venue": "Udaipur Lake Palace",
+    "theme": "Modern Minimal",
+    "eventType": "Birthday",
+    "year": 2021,
+    "colors": [
+      "Lavender",
+      "Coral"
+    ],
+    "designElements": [
+      "Photo Booth",
+      "Lighting Design"
+    ],
+    "tags": [
+      "birthday",
+      "modern-minimal",
+      "lavender",
+      "coral",
+      "photo-booth",
+      "lighting-design"
+    ],
+    "description": "A modern minimal birthday for Lumen Technologies at Udaipur Lake Palace. Featuring photo booth, lighting design in a palette of lavender, coral.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2021-08-12T10:53:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_17",
+    "name": "Luxury Gala — Drapery.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/217/800/600",
+    "fileSize": 10732586,
+    "dimensions": null,
+    "client": "Nova Pharma",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Luxury",
+    "eventType": "Gala",
+    "year": 2021,
+    "colors": [
+      "Burgundy",
+      "Emerald"
+    ],
+    "designElements": [
+      "Drapery",
+      "Entrance Decor"
+    ],
+    "tags": [
+      "gala",
+      "luxury",
+      "burgundy",
+      "emerald",
+      "drapery",
+      "entrance-decor"
+    ],
+    "description": "A luxury gala for Nova Pharma at Taj Falaknuma Palace. Featuring drapery, entrance decor in a palette of burgundy, emerald.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-07-13T17:36:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_42",
+    "name": "Art Deco Festival — Table Setting.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/242/800/600",
+    "fileSize": 2558734,
+    "dimensions": null,
+    "client": "The Mehta Family",
+    "venue": "The Imperial Ballroom",
+    "theme": "Art Deco",
+    "eventType": "Festival",
+    "year": 2021,
+    "colors": [
+      "Champagne",
+      "Teal"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Floral Arch",
+      "Mandap"
+    ],
+    "tags": [
+      "festival",
+      "art-deco",
+      "champagne",
+      "teal",
+      "table-setting",
+      "floral-arch",
+      "mandap"
+    ],
+    "description": "A art deco festival for The Mehta Family at The Imperial Ballroom. Featuring table setting, floral arch, mandap in a palette of champagne, teal.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2021-07-06T18:43:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_31",
+    "name": "Tropical Engagement — Floral Arch.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/231/800/600",
+    "fileSize": 5655729,
+    "dimensions": {
+      "width": 5472,
+      "height": 2160
+    },
+    "client": "Royal Orchid",
+    "venue": "The Imperial Ballroom",
+    "theme": "Tropical",
+    "eventType": "Engagement",
+    "year": 2021,
+    "colors": [
+      "Royal Blue",
+      "Black"
+    ],
+    "designElements": [
+      "Floral Arch",
+      "Drapery"
+    ],
+    "tags": [
+      "engagement",
+      "tropical",
+      "royal-blue",
+      "black",
+      "floral-arch",
+      "drapery"
+    ],
+    "description": "A tropical engagement for Royal Orchid at The Imperial Ballroom. Featuring floral arch, drapery in a palette of royal blue, black.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-06-15T09:37:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_57",
+    "name": "Fairytale Festival — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/257/800/600",
+    "fileSize": 2251985,
+    "dimensions": null,
+    "client": "Royal Orchid",
+    "venue": "Riverside Lawns",
+    "theme": "Fairytale",
+    "eventType": "Festival",
+    "year": 2021,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "designElements": [
+      "Lighting Design",
+      "Stage Backdrop",
+      "Table Setting"
+    ],
+    "tags": [
+      "festival",
+      "fairytale",
+      "black",
+      "white",
+      "lighting-design",
+      "stage-backdrop",
+      "table-setting"
+    ],
+    "description": "A fairytale festival for Royal Orchid at Riverside Lawns. Featuring lighting design, stage backdrop, table setting in a palette of black, white.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2021-04-20T11:14:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_21",
+    "name": "Vintage Anniversary — Stage Backdrop.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/221/800/600",
+    "fileSize": 7811194,
+    "dimensions": {
+      "width": 4928,
+      "height": 3264
+    },
+    "client": "Banyan Estates",
+    "venue": "Leela Convention Centre",
+    "theme": "Vintage",
+    "eventType": "Anniversary",
+    "year": 2021,
+    "colors": [
+      "Black",
+      "Ivory",
+      "Gold"
+    ],
+    "designElements": [
+      "Stage Backdrop",
+      "Centerpiece"
+    ],
+    "tags": [
+      "anniversary",
+      "vintage",
+      "black",
+      "ivory",
+      "gold",
+      "stage-backdrop",
+      "centerpiece"
+    ],
+    "description": "A vintage anniversary for Banyan Estates at Leela Convention Centre. Featuring stage backdrop, centerpiece in a palette of black, ivory, gold.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-04-15T08:51:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_66",
+    "name": "Bohemian Anniversary — Mandap.glb",
+    "type": "3d",
+    "thumbnailUrl": "https://picsum.photos/seed/266/800/600",
+    "fileSize": 8367831,
+    "dimensions": null,
+    "client": "The Mehta Family",
+    "venue": "Riverside Lawns",
+    "theme": "Bohemian",
+    "eventType": "Anniversary",
+    "year": 2021,
+    "colors": [
+      "Black",
+      "Royal Blue",
+      "Burgundy"
+    ],
+    "designElements": [
+      "Mandap",
+      "Lounge Setup",
+      "Floral Arch"
+    ],
+    "tags": [
+      "anniversary",
+      "bohemian",
+      "black",
+      "royal-blue",
+      "burgundy",
+      "mandap",
+      "lounge-setup",
+      "floral-arch"
+    ],
+    "description": "A bohemian anniversary for The Mehta Family at Riverside Lawns. Featuring mandap, lounge setup, floral arch in a palette of black, royal blue, burgundy.",
+    "uploadedBy": "usr_02",
+    "uploadedAt": "2021-04-13T08:42:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_73",
+    "name": "Art Deco Engagement — Photo Booth.mp4",
+    "type": "video",
+    "thumbnailUrl": "https://picsum.photos/seed/273/800/600",
+    "fileSize": 179363657,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Lumen Technologies",
+    "venue": "The Oberoi Gardens",
+    "theme": "Art Deco",
+    "eventType": "Engagement",
+    "year": 2021,
+    "colors": [
+      "Ivory",
+      "White"
+    ],
+    "designElements": [
+      "Photo Booth"
+    ],
+    "tags": [
+      "engagement",
+      "art-deco",
+      "ivory",
+      "white",
+      "photo-booth"
+    ],
+    "description": "A art deco engagement for Lumen Technologies at The Oberoi Gardens. Featuring photo booth in a palette of ivory, white.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-03-23T12:01:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_97",
+    "name": "Modern Minimal Wedding — Mandap.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/297/800/600",
+    "fileSize": 4285926,
+    "dimensions": {
+      "width": 6000,
+      "height": 3648
+    },
+    "client": "Banyan Estates",
+    "venue": "Jaipur City Palace",
+    "theme": "Modern Minimal",
+    "eventType": "Wedding",
+    "year": 2021,
+    "colors": [
+      "Coral",
+      "White"
+    ],
+    "designElements": [
+      "Mandap",
+      "Stage Backdrop",
+      "Lighting Design"
+    ],
+    "tags": [
+      "wedding",
+      "modern-minimal",
+      "coral",
+      "white",
+      "mandap",
+      "stage-backdrop",
+      "lighting-design"
+    ],
+    "description": "A modern minimal wedding for Banyan Estates at Jaipur City Palace. Featuring mandap, stage backdrop, lighting design in a palette of coral, white.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-03-19T12:41:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_10",
+    "name": "Modern Minimal Engagement — Table Setting.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/210/800/600",
+    "fileSize": 5032142,
+    "dimensions": {
+      "width": 6000,
+      "height": 4000
+    },
+    "client": "Royal Orchid",
+    "venue": "Udaipur Lake Palace",
+    "theme": "Modern Minimal",
+    "eventType": "Engagement",
+    "year": 2021,
+    "colors": [
+      "Champagne",
+      "Emerald",
+      "Ivory"
+    ],
+    "designElements": [
+      "Table Setting",
+      "Lighting Design"
+    ],
+    "tags": [
+      "engagement",
+      "modern-minimal",
+      "champagne",
+      "emerald",
+      "ivory",
+      "table-setting",
+      "lighting-design"
+    ],
+    "description": "A modern minimal engagement for Royal Orchid at Udaipur Lake Palace. Featuring table setting, lighting design in a palette of champagne, emerald, ivory.",
+    "uploadedBy": "usr_01",
+    "uploadedAt": "2021-02-25T09:22:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_22",
+    "name": "Royal Heritage Wedding — Lighting Design.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/222/800/600",
+    "fileSize": 1584659,
+    "dimensions": null,
+    "client": "Saffron Weddings",
+    "venue": "Taj Falaknuma Palace",
+    "theme": "Royal Heritage",
+    "eventType": "Wedding",
+    "year": 2021,
+    "colors": [
+      "Teal",
+      "Burgundy",
+      "Royal Blue"
+    ],
+    "designElements": [
+      "Lighting Design"
+    ],
+    "tags": [
+      "wedding",
+      "royal-heritage",
+      "teal",
+      "burgundy",
+      "royal-blue",
+      "lighting-design"
+    ],
+    "description": "A royal heritage wedding for Saffron Weddings at Taj Falaknuma Palace. Featuring lighting design in a palette of teal, burgundy, royal blue.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2021-02-02T10:56:00Z",
+    "favorite": false
+  },
+  {
+    "id": "ast_76",
+    "name": "Royal Heritage Wedding — Chandelier.jpg",
+    "type": "image",
+    "thumbnailUrl": "https://picsum.photos/seed/276/800/600",
+    "fileSize": 6820608,
+    "dimensions": {
+      "width": 5472,
+      "height": 4000
+    },
+    "client": "House of Kapoor",
+    "venue": "Riverside Lawns",
+    "theme": "Royal Heritage",
+    "eventType": "Wedding",
+    "year": 2021,
+    "colors": [
+      "Ivory",
+      "Coral"
+    ],
+    "designElements": [
+      "Chandelier",
+      "Stage Backdrop"
+    ],
+    "tags": [
+      "wedding",
+      "royal-heritage",
+      "ivory",
+      "coral",
+      "chandelier",
+      "stage-backdrop"
+    ],
+    "description": "A royal heritage wedding for House of Kapoor at Riverside Lawns. Featuring chandelier, stage backdrop in a palette of ivory, coral.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2021-01-20T17:23:00Z",
+    "favorite": true
+  },
+  {
+    "id": "ast_45",
+    "name": "Vintage Festival — Centerpiece.pdf",
+    "type": "document",
+    "thumbnailUrl": "https://picsum.photos/seed/245/800/600",
+    "fileSize": 2290407,
+    "dimensions": null,
+    "client": "House of Kapoor",
+    "venue": "Goa Beach Resort",
+    "theme": "Vintage",
+    "eventType": "Festival",
+    "year": 2021,
+    "colors": [
+      "Lavender",
+      "Burgundy",
+      "Champagne"
+    ],
+    "designElements": [
+      "Centerpiece",
+      "Table Setting"
+    ],
+    "tags": [
+      "festival",
+      "vintage",
+      "lavender",
+      "burgundy",
+      "champagne",
+      "centerpiece",
+      "table-setting"
+    ],
+    "description": "A vintage festival for House of Kapoor at Goa Beach Resort. Featuring centerpiece, table setting in a palette of lavender, burgundy, champagne.",
+    "uploadedBy": "usr_03",
+    "uploadedAt": "2021-01-14T14:10:00Z",
+    "favorite": true
+  }
+]

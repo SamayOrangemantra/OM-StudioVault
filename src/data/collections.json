@@ -1,0 +1,42 @@
+[
+  {
+    "id": "col_weddings",
+    "name": "Luxury Weddings",
+    "description": "Opulent celebrations — royal heritage, fairytale, and high-luxury weddings.",
+    "filter": {
+      "eventType": ["Wedding", "Reception", "Engagement"],
+      "theme": ["Luxury", "Royal Heritage", "Fairytale"]
+    }
+  },
+  {
+    "id": "col_corporate",
+    "name": "Corporate Events",
+    "description": "Conferences, galas, and product launches with a polished, branded edge.",
+    "filter": {
+      "eventType": ["Corporate", "Conference", "Product Launch", "Gala"]
+    }
+  },
+  {
+    "id": "col_mandaps",
+    "name": "Best Mandaps",
+    "description": "Our most striking mandap builds — floral, contemporary, and classical.",
+    "filter": {
+      "designElements": ["Mandap"]
+    }
+  },
+  {
+    "id": "col_outdoor",
+    "name": "Outdoor Venues",
+    "description": "Lakeside, beachfront, vineyard, and garden settings under open skies.",
+    "filter": {
+      "venue": [
+        "Udaipur Lake Palace",
+        "Goa Beach Resort",
+        "Vineyard Estate",
+        "Mountain Vista Resort",
+        "The Oberoi Gardens",
+        "Riverside Lawns"
+      ]
+    }
+  }
+]

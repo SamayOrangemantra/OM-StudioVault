@@ -1,0 +1,13 @@
+// Barrel export for dashboard section components.
+export { StatsGrid } from './StatsGrid'
+export { QuickSearch } from './QuickSearch'
+export { QuickFilters } from './QuickFilters'
+export { FeaturedCollection } from './FeaturedCollection'
+export { StorageOverview } from './StorageOverview'
+export { AssetTypeDistribution } from './AssetTypeDistribution'
+export { TeamMembers } from './TeamMembers'
+export { AssetSection } from './AssetSection'
+export { RecentUploads } from './RecentUploads'
+export { TrendingTags } from './TrendingTags'
+export { RecentActivity } from './RecentActivity'
+export { CollectionsPreview } from './CollectionsPreview'

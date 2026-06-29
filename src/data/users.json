@@ -1,0 +1,23 @@
+[
+  {
+    "id": "usr_01",
+    "name": "Aria Laurent",
+    "email": "aria@auralux.studio",
+    "avatarUrl": "https://i.pravatar.cc/120?img=47",
+    "role": "Creative Director"
+  },
+  {
+    "id": "usr_02",
+    "name": "Mateo Rossi",
+    "email": "mateo@auralux.studio",
+    "avatarUrl": "https://i.pravatar.cc/120?img=12",
+    "role": "Event Designer"
+  },
+  {
+    "id": "usr_03",
+    "name": "Noor Haddad",
+    "email": "noor@auralux.studio",
+    "avatarUrl": "https://i.pravatar.cc/120?img=32",
+    "role": "Producer"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "act_01",
+    "type": "upload",
+    "userId": "usr_02",
+    "assetId": "ast_02",
+    "targetName": "Lavender Aisle Walkthrough.mp4",
+    "createdAt": "2026-06-29T09:12:00Z"
+  },
+  {
+    "id": "act_02",
+    "type": "favorite",
+    "userId": "usr_01",
+    "assetId": "ast_01",
+    "targetName": "Provence Tablescape — Golden Hour.jpg",
+    "createdAt": "2026-06-29T07:48:00Z"
+  },
+  {
+    "id": "act_03",
+    "type": "collection",
+    "userId": "usr_01",
+    "collectionId": "col_02",
+    "targetName": "Midnight Gala · Black & Gold",
+    "createdAt": "2026-06-28T16:30:00Z"
+  },
+  {
+    "id": "act_04",
+    "type": "share",
+    "userId": "usr_03",
+    "collectionId": "col_03",
+    "targetName": "Coastal Launch · Amalfi",
+    "createdAt": "2026-06-28T11:05:00Z"
+  },
+  {
+    "id": "act_05",
+    "type": "comment",
+    "userId": "usr_02",
+    "assetId": "ast_04",
+    "targetName": "Brass Stage Installation.jpg",
+    "createdAt": "2026-06-27T18:20:00Z"
+  },
+  {
+    "id": "act_06",
+    "type": "upload",
+    "userId": "usr_03",
+    "assetId": "ast_06",
+    "targetName": "Amalfi Terrace — Citrus Styling.jpg",
+    "createdAt": "2026-06-27T10:15:00Z"
+  }
+]

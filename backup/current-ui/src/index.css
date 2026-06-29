@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Semantic theme tokens. Components reference these only through Tailwind
+ * classes (bg-surface, text-muted, etc.) — never raw hex. Switching the
+ * theme is a single `.dark` class toggle on <html>.
+ *
+ * Values are space-separated RGB channels so Tailwind's <alpha-value>
+ * opacity modifiers keep working (e.g. bg-accent/20).
+ */
+@layer base {
+  :root {
+    /* Light — airy, minimal, warm neutral */
+    --bg: 247 246 243; /* #F7F6F3 warm off-white */
+    --surface: 255 255 255;
+    --surface-2: 241 239 235;
+    --border: 226 223 217;
+    --text: 28 27 25; /* near-black ink */
+    --text-muted: 122 118 110;
+    --accent: 176 141 87; /* champagne gold */
+    --accent-foreground: 255 255 255;
+    --ring: 176 141 87;
+  }
+
+  .dark {
+    /* Dark — editorial luxury, gallery charcoal */
+    --bg: 18 18 19;
+    --surface: 26 26 28;
+    --surface-2: 35 35 38;
+    --border: 48 48 52;
+    --text: 240 238 233;
+    --text-muted: 150 147 141;
+    --accent: 200 168 113; /* warmer gold pops on dark */
+    --accent-foreground: 24 22 18;
+    --ring: 200 168 113;
+  }
+
+  * {
+    border-color: rgb(var(--border));
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bg text-text font-sans;
+    margin: 0;
+    letter-spacing: -0.006em;
+  }
+
+  /* Tighter tracking on display headings for an editorial, premium feel. */
+  .font-display {
+    letter-spacing: -0.02em;
+  }
+
+  /* Branded text selection. */
+  ::selection {
+    background: rgb(var(--accent) / 0.22);
+    color: rgb(var(--text));
+  }
+
+  /*
+   * Keyboard-focus fallback for links, which generally don't set their own ring
+   * (buttons/inputs define focus-visible:ring-* themselves, so they're excluded
+   * here to avoid a doubled indicator).
+   */
+  a:focus-visible {
+    outline: 2px solid rgb(var(--ring));
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* Themed scrollbars for a polished, app-like feel */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(var(--border));
+    border-radius: 9999px;
+    border: 2px solid rgb(var(--bg));
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(var(--text-muted) / 0.5);
+  }
+}
+
+@layer utilities {
+  /* Smooth color transitions when the theme flips */
+  .theme-transition,
+  .theme-transition * {
+    transition:
+      background-color 0.25s ease,
+      border-color 0.25s ease,
+      color 0.25s ease;
+  }
+}
+
+/*
+ * Respect the user's reduced-motion preference for CSS-driven motion. Framer
+ * Motion is handled separately via <MotionConfig reducedMotion="user">.
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
